@@ -66,7 +66,7 @@ streamlit run app.py
 - **Single Email Tab**: Paste email content to get an immediate Spam/Ham prediction with a confidence score.
 - **Batch Processing Tab**: Upload an `.mbox` file to process multiple emails at once and download the results as a CSV.
 
-### 2. Training the Model
+### 2. Training the Models
 (Optional) If you wish to retrain the models on new data:
 
 1. Place your dataset in `data/dataset/dataset.csv`.
